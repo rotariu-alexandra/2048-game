@@ -16,6 +16,11 @@ A fun, interactive puzzle game inspired by the original 2048! This project was b
 - CSS3 (Flexbox/Grid)
 - Vanilla JavaScript (Event handling, DOM manipulation)
 
+## 📸 Screenshots
+
+### 💻 View
+![Screenshot](assets/Screenshots-2048-Game.jpg)
+
 
 ## 🛠️ Installation
 
